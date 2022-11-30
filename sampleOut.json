@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [{
+        "source": {
+            "id": "lequipe",
+            "name": "L'equipe"
+        },
+        "author": "L'EQUIPE",
+        "title": "Yassine Bounou, le gardien du Maroc, victime de vertiges avant le match contre la Belgique",
+        "description": "Selon beIN Sports, Yassine Bounou, le gardien du Maroc qui devait être titulaire face à la Belgique et qui a été remplacé au dernier moment, a été victime de vertiges juste avant la rencontre.",
+        "url": "https://www.lequipe.fr/Football/Actualites/Yassine-bounou-le-gardien-du-maroc-victime-de-vertiges-avant-le-match-contre-la-belgique/1367172",
+        "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/yassine-bounou-n-a-finalement-pas-joue-contre-la-belgique-reuters/1500000001716885/0:0,1997:1331-640-427-75/0af9a.jpg",
+        "publishedAt": "2022-11-27T14:03:40+00:00",
+        "content": "Selon beIN Sports, le portier marocain a été victime de vertiges ce qui ne lui a pas permis de tenir sa place. C'est Mounir El Kajoui qui a pris place dans le but marocain. À la mi-temps, les deux éq… [+45 chars]"
+    }, {
+        "source": {
+            "id": "la-gaceta",
+            "name": "La Gaceta"
+        },
+        "author": "La Gaceta",
+        "title": "Mundial Qatar 2022: el VAR le anuló un gol a Marruecos ante Bélgica y siguen igualados",
+        "description": "Juegan en Doha. Transmite TyC Sports.",
+        "url": "https://www.lagaceta.com.ar/nota/971197/deportes/mundial-qatar-2022-var-le-anulo-gol-marruecos-ante-belgica-siguen-igualados.html",
+        "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2022/11/27/para-cualquiera-belgas-marroquies-juegan-partido-parejo-estadio-al-thumama-971197-104714.jpg",
+        "publishedAt": "2022-11-27T13:52:19.5393728Z",
+        "content": "Por la segunda fecha del grupo F del Mundial Qatar 2022, Bélgica iguala sin goles ante Marruecos y necesita una victoria para sellar su pase a los octavos de final.\r\nEl partido se juega desde las 10 … [+450 chars]"
+    }, {
+        "source": {
+            "id": "bleacher-report",
+            "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "&#x27;Gridiron Heights&#x27; MVP Race ✈️",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/297641-gridiron-heights-mvp-race",
+        "urlToImage": null,
+        "publishedAt": "2022-11-27T13:07:20.3669558Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "la-nacion",
+            "name": "La Nacion"
+        },
+        "author": null,
+        "title": "Bélgica vs. Marruecos, en vivo: el minuto a minuto del partido del Mundial Qatar 2022",
+        "description": "Juegan desde las 10 y televisa TyC Sports",
+        "url": "http://www.lanacion.com.ar/deportes/futbol/belgica-vs-marruecos-en-vivo-nid27112022/",
+        "urlToImage": "https://resizer.glanacion.com/resizer/gYogI8DWeFeqzsXxIaCfH7mGY4k=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JAXM3AYQJBG7ZAQUEL7NIGEG5U.JPG",
+        "publishedAt": "2022-11-27T13:01:27.819Z",
+        "content": "Arrancó el partido entre Bélgica y Marruecos.\r\nBélgica y Marruecos ya están en el campo de juego y en minutos comenzará el primer tiempo.\r\nLos futbolistas de Bélgica y Marruecos realizan sus trabajos… [+2145 chars]"
+    }, {
+        "source": {
+            "id": "nrk",
+            "name": "NRK"
+        },
+        "author": "Leif Rune Løland, Olav Røli",
+        "title": "Raste i 140 km/t i sportsbil gjennom tunnel med toåring i framsetet",
+        "description": "Mannen i 40-åra sjokkerte politiet med råkøyringa si med sonen i bilen. No er han dømd til 60 dagar i fengsel.",
+        "url": "https://www.nrk.no/vestland/laga-skrytevideo-av-at-han-koyrde-i-140-km_t-med-toaring-i-framsetet-1.16194503",
+        "urlToImage": "https://gfx.nrk.no/_pxWMtjyaJjLTvtmLxmWPQ4tAKqvjxRyn4NsZMgyZf3Q.jpg",
+        "publishedAt": "2022-11-27T08:45:44Z",
+        "content": "Dette er fullstendig uakseptabelt og hensynslaust. Han har stor risikovilje.\r\nDet seier politioverbetjent Atle Heradstveit, seksjonsleiar trafikkseksjonen Bergen/Askøy/Øygarden.\r\nDet var i mai at man… [+3029 chars]"
+    }, {
+        "source": {
+            "id": "the-irish-times",
+            "name": "The Irish Times"
+        },
+        "author": "Malachy Clerkin",
+        "title": "The Irish Times books of the year: Best sports books of 2022",
+        "description": "Malachy Clerkin selects this year's trophy-winning titles",
+        "url": "https://www.irishtimes.com/culture/books/2022/11/26/the-best-sports-books-of-2022/",
+        "urlToImage": "https://www.irishtimes.com/resizer/eL-cF2Ep1TH7TFCmt6De9X-e0Bw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/O5C7GXFAHRHV7O7LWQCYCKKAP4.jpg",
+        "publishedAt": "2022-11-26T06:00:01Z",
+        "content": "Any of us who write about sport will have thought about having a go at this kind of book at some point. An attempt to understand sport, to explain it (and us), to sketch its contours in our own pecul… [+3100 chars]"
+    }, {
+        "source": {
+            "id": "bleacher-report",
+            "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": " Exclusive Mike Evans Interview ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/297261-the-voncast-with-mike-evans",
+        "urlToImage": null,
+        "publishedAt": "2022-11-23T12:37:19.2512663Z",
+        "content": "Mike Evans and Von Miller talk Tom Brady, pick the dream NFL offense and more"
+    }, {
+        "source": {
+            "id": "national-review",
+            "name": "National Review"
+        },
+        "author": "Caroline Downey",
+        "title": "Man Wins Elite Women’s Race at International Cyclocross Tournament",
+        "description": "Killips has an online blog, Estro Junkie, which he calls ‘a newsletter about the intersection of sports and queer theory.’",
+        "url": "https://www.nationalreview.com/news/man-wins-elite-womens-race-at-international-cyclocross-tournament/",
+        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/10/transgender-flag.jpg?fit=2057%2C1200",
+        "publishedAt": "2022-11-15T02:37:29Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "bleacher-report",
+            "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+        "urlToImage": null,
+        "publishedAt": "2022-11-14T22:07:16.2323649Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "the-washington-times",
+            "name": "The Washington Times"
+        },
+        "author": "The Washington Times https://www.washingtontimes.com",
+        "title": "Latest Quizzes",
+        "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+        "url": "https://www.washingtontimes.com/quiz/",
+        "urlToImage": null,
+        "publishedAt": "2022-08-30T16:37:43.8583104Z",
+        "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    }, {
+        "source": {
+            "id": "nrk",
+            "name": "NRK"
+        },
+        "author": "NRK",
+        "title": "De siste sportsnyhetene fra NRK",
+        "description": "Her får du de siste sportsnyhetene fra NRK.",
+        "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16196978.1.16196978",
+        "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+        "publishedAt": "2019-08-14T09:09:42Z",
+        "content": "27. november2022kl.12:50Den svenske duoen Ebba Andersson og Frida Karlsson gikk ut i tet under jaktstarten i Ruka, og startet umiddelbart med å øke luken ned til resten. Svenskene jobbet sammen, veks… [+1616 chars]"
+    }]
+}
